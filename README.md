@@ -1,2 +1,2 @@
 # tensorflow
-- solve many problem with tensorflow
+- solve many problems with tensorflow
